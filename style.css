@@ -1,0 +1,85 @@
+*{
+    font-family: 'Acme', sns-seriff;
+}
+
+body{
+    margin: 0%;
+}
+
+.informacion{
+    width: 150%;
+    height: 50vh;
+    background: rgb(90, 42, 129);
+}
+
+.informacion h1{
+    font-size: 05px;
+    text-align: center;
+    color: white;
+    margin: 0%;
+}
+
+.informacion img{
+    width: 200px;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+}
+
+.informacion h2{
+    text-align: center;
+    color:rgb(119, 0, 255) ;
+    background: #fff;
+    width: 200px;
+    margin: auto;
+}
+
+
+.informacion ul{
+    width: 100%;
+    text-align: center;
+}
+
+
+.informacion ul li{
+    display: inline-block;
+    width: 150px;
+    background: white;
+    padding: 10px;
+    margin: auto;
+    border: solid rgb(255, 0, 0);
+}
+
+.skills{
+    width: 150%;
+    background: rgba(140, 0, 255, 0.739) ;
+    height: 50vh;
+}
+
+.skills h3{
+    margin: 0%;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    letter-spacing: 4px;
+}
+
+.skills ul{
+    width: 800px;
+    margin: auto;
+}
+
+.skills ul li{
+    list-style: none;
+    margin: auto;
+    padding: 15px;
+    font-size: 20px;
+    font-style: normal;
+    display: inline-block;
+}
+
+.skills ul li img{
+    width: 50px;
+    display: block;
+    margin: auto;
+}
